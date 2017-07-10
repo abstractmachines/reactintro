@@ -1,8 +1,13 @@
 # Introduction to React
 
-From [Facebook React docs](https://facebook.github.io/react/tutorial/tutorial.html)
+This is an introduction to React from the Facebook React docs.
+I've constructed it using my current basic JS stack setup, using Node, nvm,
+Webpack (w/dev server), and Babel.
 
-Not covered here:
+The code is generally from [Facebook React docs](https://facebook.github.io/react/tutorial/tutorial.html), but I've
+removed some FUD syntax including excessive semicolons.
+
+## Important React topics which are not covered here:
 
 How to handle state properly in React (see [Hackernoon article](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc))
 
